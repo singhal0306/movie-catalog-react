@@ -31,7 +31,8 @@ To run the application locally, follow these steps:
 ![Screenshot (40)](https://github.com/singhal0306/movie-catalog-react/assets/86726484/2bc85aa1-3f7f-4453-b318-ca93c791eb4e)
 ![Screenshot (41)](https://github.com/singhal0306/movie-catalog-react/assets/86726484/01bafa2d-0185-4832-aebb-514f94eb0252)
 ![Screenshot (42)](https://github.com/singhal0306/movie-catalog-react/assets/86726484/5c40a261-5fd0-43da-b10e-a343ec748909)
-![Screenshot (43)](https://github.com/singhal0306/movie-catalog-react/assets/86726484/cd3e1fd0-89b0-4240-ba24-93116f6ce05d)
+![image](https://github.com/singhal0306/movie-catalog-react/assets/86726484/16d351bd-ef6c-4392-8449-5f2b30c8eb95)
+
 <div style="display: flex;">
    <img src="https://github.com/singhal0306/movie-catalog-react/assets/86726484/cad90653-08be-4855-ae93-2df955cc8eb4" alt="Screenshot 1" width="400"/>
 <!-- ![WhatsApp Image 2024-04-29 at 02 49 00_06d5e87c](https://github.com/singhal0306/movie-catalog-react/assets/86726484/cad90653-08be-4855-ae93-2df955cc8eb4) -->
