@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from "react";
+import { Routes, Route } from "react-router-dom";
+import Home from "./Components/Home";
+import Description from "./Components/Description";
+import ErrorPage from "./Components/ErrorPage";
+import { fetchMovieData } from "./Store/movieAction";
+import { useDispatch } from "react-redux";
 
-function App() {
+const App = () => {
+  const dispatch = useDispatch();
+  
+  useEffect(() => {
+    dispatch(fetchMovieData());
+  }, [dispatch]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="movie/:id" element={<Description />} />
+      <Route path="*" element={<ErrorPage />} />
+    </Routes>
   );
-}
+};
 
 export default App;
