@@ -33,8 +33,10 @@ To run the application locally, follow these steps:
 ![Screenshot (42)](https://github.com/singhal0306/movie-catalog-react/assets/86726484/5c40a261-5fd0-43da-b10e-a343ec748909)
 ![Screenshot (43)](https://github.com/singhal0306/movie-catalog-react/assets/86726484/cd3e1fd0-89b0-4240-ba24-93116f6ce05d)
 <div style="display: flex;">
-![WhatsApp Image 2024-04-29 at 02 49 00_06d5e87c](https://github.com/singhal0306/movie-catalog-react/assets/86726484/cad90653-08be-4855-ae93-2df955cc8eb4)
-![WhatsApp Image 2024-04-29 at 02 49 01_295be646](https://github.com/singhal0306/movie-catalog-react/assets/86726484/0695904b-80c1-4c7c-95b5-366501cb361e)
+   <img src="https://github.com/singhal0306/movie-catalog-react/assets/86726484/cad90653-08be-4855-ae93-2df955cc8eb4" alt="Screenshot 1" width="400"/>
+<!-- ![WhatsApp Image 2024-04-29 at 02 49 00_06d5e87c](https://github.com/singhal0306/movie-catalog-react/assets/86726484/cad90653-08be-4855-ae93-2df955cc8eb4) -->
+   <img src="https://github.com/singhal0306/movie-catalog-react/assets/86726484/0695904b-80c1-4c7c-95b5-366501cb361e" alt="Screenshot 1" width="400"/>
+<!-- ![WhatsApp Image 2024-04-29 at 02 49 01_295be646](https://github.com/singhal0306/movie-catalog-react/assets/86726484/0695904b-80c1-4c7c-95b5-366501cb361e) -->
 </div>
 ## Credits
 This project was created by Suryansh Singhal. Special thanks to TailwindCSS.
